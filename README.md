@@ -18,9 +18,7 @@
  [Optional]
  
  * `Transit Least Squares` (https://transitleastsquares.readthedocs.io/en/latest/index.html)
- * `juliet` (link)
- 
- If any of these packages is installed in a directory different from your normal Python directory, add the path at the beginning of the code, right after the imports.
+ * `juliet` (https://juliet.readthedocs.io/en/latest/index.html)
 
 
  
