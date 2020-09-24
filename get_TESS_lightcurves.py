@@ -33,9 +33,6 @@ Parameters:
 
     -GP             Use Gaussian Processes to do the detrending.
                     Requires that 'juliet' is istalled in your computer.
-                    In that case, especify the location of juliet in your
-                    computer at the beginning of this file, in case it is not
-                    located with the rest of your python packages.
 
     -from_fits      If the light curve data is to be read from fits files.
 
@@ -73,14 +70,6 @@ matplotlib.rcParams['mathtext.fontset'] = 'stix'
 matplotlib.rcParams['font.family'] = 'STIXGeneral'
 
 warnings.simplefilter("ignore")
-
-##################################################
-# Set your juliet path here
-
-#sys.path.append('/Users/maritza/juliet-master/')
-
-##################################################
-
 
 class BLS:
     """
@@ -488,9 +477,6 @@ def main():
 
         -GP             Use Gaussian Processes to do the detrending.
                         Requires that 'juliet' is istalled in your computer.
-                        In that case, especify the location of juliet in your
-                        computer at the beginning of this file, in case it is not
-                        located with the rest of your python packages.
 
         -from_fits      If the light curve data is to be read from fits files.
 
