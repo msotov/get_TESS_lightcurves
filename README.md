@@ -3,7 +3,7 @@
  
  Written by Maritza Soto.
  
- Please send your comments or issues to marisotov@gmail.com.
+ Please send your comments or issues to marisotov@gmail.com. Drop a comment or send me an email if you use this module in your research!
  
  # Installation
  
